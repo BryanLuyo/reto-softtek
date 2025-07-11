@@ -1,0 +1,14 @@
+dist/
+node_modules/
+/tmp/
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+
+# Coverage
+coverage/
